@@ -51,3 +51,11 @@ Incidencia #2 está resuelta.
 @jelicesv debe ver esto.
 
 ~~esto estará tachado~~
+
+Nueva lista:
+
+1. Item 1
+1. Item 2
+1. Item 3
+   1. Item 3a
+   1. Item 3b

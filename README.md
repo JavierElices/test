@@ -1,2 +1,2 @@
-# test
-Test repository to check out Git functionality
+# Test
+Test repository to check out Git functionality.

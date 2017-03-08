@@ -14,6 +14,7 @@ Esto es una lista:
 * el dos
 
 Esto es otra lista:
+
 1. el uno
 1. el dos
     1. el uno uno

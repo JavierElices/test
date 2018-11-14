@@ -63,3 +63,7 @@ Nueva lista:
    1. Item 3b
 
 Añadido después.
+
+Esto es un nuevo cambio desde *Visual Studio Code*.
+
+Y esto es otro cambio más.

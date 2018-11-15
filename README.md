@@ -3,12 +3,14 @@ Test repository to check out Git functionality.
 
 Pongo "Algo más descriptivo estaría bien"...
 
+## Test2
 Añado una línea más.
 
 Ahora añado otra. Y continuo la frase.
 
 Una frase más.
 
+### Test3
 Esto es una lista:
 * el uno
 * el dos

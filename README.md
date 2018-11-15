@@ -1,5 +1,5 @@
 # Test
-Test repository to check out Git functionality.
+Test repository to check out Git functionality. Do not pay attention to it!
 
 Pongo "Algo más descriptivo estaría bien"...
 
